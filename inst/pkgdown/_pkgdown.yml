@@ -1,0 +1,16 @@
+development:
+  mode: auto
+
+template:
+  bootstrap: 4
+  bslib:
+    base_font:
+      google: "Roboto"
+    heading_font:
+      google: "Ubuntu"
+  opengraph:
+    twitter:
+      card: summary_large_image
+
+search:
+  exclude: ['news/index.html']
