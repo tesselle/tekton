@@ -1,16 +1,23 @@
 Package: tekton
-Title: What the Package Does (One Line, Title Case)
+Title: 'pkgdown' Template for tesselle Packages
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Nicolas",
+           family = "Frerebeau",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "nicolas.frerebeau@u-bordeaux-montaigne.fr",
+           comment = c(ORCID = "0000-0001-5759-4944"))
+Maintainer: Nicolas Frerebeau
+    <nicolas.frerebeau@u-bordeaux-montaigne.fr>
+Description: This is a private template for use by tesselle packages.
+    Please don't use it for your own code.
+License: GPL (>= 3)
+URL: https://packages.tesselle.org/tekton/,
+    https://github.com/tesselle/tekton
+BugReports: https://github.com/tesselle/tekton/issues
+Suggests: 
+    knitr,
+    rmarkdown
 Encoding: UTF-8
-LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
