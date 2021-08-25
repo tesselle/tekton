@@ -13,4 +13,4 @@ template:
       card: summary_large_image
 
 search:
-  exclude: ['news/index.html']
+  exclude: ['CODE_OF_CONDUCT.html','CONTRIBUTING.html','LICENSE.html','news/index.html']
