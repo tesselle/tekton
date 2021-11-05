@@ -6,7 +6,8 @@ Authors@R:
            family = "Frerebeau",
            role = c("aut", "cre"),
            email = "nicolas.frerebeau@u-bordeaux-montaigne.fr",
-           comment = c(ORCID = "0000-0001-5759-4944"))
+           comment = c(ORCID = "0000-0001-5759-4944", 
+                       affiliation = "Université Bordeaux Montaigne"))
 Maintainer: Nicolas Frerebeau
     <nicolas.frerebeau@u-bordeaux-montaigne.fr>
 Description: This is a private template for use by tesselle packages.
