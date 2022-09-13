@@ -10,6 +10,7 @@ template:
       google: "Ubuntu"
   opengraph:
     twitter:
+      site: "@nfrerebeau"
       card: summary_large_image
 
 search:
