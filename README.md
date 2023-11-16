@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![r-universe](https://tesselle.r-universe.dev/badges/tekton)](https://tesselle.r-universe.dev)
+[![r-universe](https://tesselle.r-universe.dev/badges/tekton)](https://tesselle.r-universe.dev/tekton)
 
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the

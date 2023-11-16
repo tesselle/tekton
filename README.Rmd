@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 # tekton
 
 <!-- badges: start -->
-[![r-universe](https://tesselle.r-universe.dev/badges/tekton)](https://tesselle.r-universe.dev)
+[![r-universe](https://tesselle.r-universe.dev/badges/tekton)](https://tesselle.r-universe.dev/tekton)
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![Check accessibility](https://img.shields.io/badge/check-accessibility-orange.svg)](https://wave.webaim.org/report#/https://packages.tesselle.org/tekton)
