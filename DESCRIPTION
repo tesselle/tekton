@@ -1,15 +1,13 @@
 Package: tekton
 Title: 'pkgdown' Template for tesselle Packages
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Nicolas",
-           family = "Frerebeau",
-           role = c("aut", "cre"),
-           email = "nicolas.frerebeau@u-bordeaux-montaigne.fr",
-           comment = c(ORCID = "0000-0001-5759-4944", 
-                       affiliation = "Université Bordeaux Montaigne"))
-Maintainer: Nicolas Frerebeau
-    <nicolas.frerebeau@u-bordeaux-montaigne.fr>
+Authors@R: c(
+    person("Nicolas", "Frerebeau", , "nicolas.frerebeau@u-bordeaux-montaigne.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5759-4944", affiliation = "Université Bordeaux Montaigne")),
+    person("Université Bordeaux Montaigne", role = "fnd"),
+    person("CNRS", role = "fnd")
+  )
+Maintainer: Nicolas Frerebeau <nicolas.frerebeau@u-bordeaux-montaigne.fr>
 Description: This is a private template for use by tesselle packages.
     Please don't use it for your own code.
 License: GPL (>= 3)
