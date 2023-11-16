@@ -1,6 +1,20 @@
 development:
   mode: auto
 
+authors:
+  Archéosciences Bordeaux:
+    href: https://www.archeosciences-bordeaux.fr
+    html: >-
+      <img src='https://www.tesselle.org/images/archeosciences.png' alt='Arch&eacute;osciences Bordeaux' height='32' style="margin-bottom: 3px;" />
+  Université Bordeaux Montaigne:
+    href: https://www.u-bordeaux-montaigne.fr
+    html: >-
+      <img src='https://www.tesselle.org/images/UBM.jpg' alt='Universit&eacute; Bordeaux Montaigne' height='32' style="margin-bottom: 3px;" />
+  CNRS:
+    href: https://www.cnrs.fr
+    html: >-
+      <img src='https://www.tesselle.org/images/CNRS.png' alt='CNRS' height='32' style="margin-bottom: 3px;" />
+
 template:
   bootstrap: 5
   bslib:
@@ -8,10 +22,12 @@ template:
       google: "Roboto"
     heading_font:
       google: "Ubuntu"
-  opengraph:
-    twitter:
-      site: "@nfrerebeau"
-      card: summary_large_image
+  includes:
+    in_header:
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:site_name" content="tesselle" />
+      <script src="https://www.tesselle.org/scripts/unicorn.js"></script>
+      <noscript><p><img src="https://analyseweb.huma-num.fr/matomo.php?idsite=332&rec=1" style="border:0" alt="" /></p></noscript>
 
 search:
   exclude: ['CODE_OF_CONDUCT.html','CONTRIBUTING.html','LICENSE.html','authors.html','news/index.html']
