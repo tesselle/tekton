@@ -5,15 +5,15 @@ authors:
   Archéosciences Bordeaux:
     href: https://www.archeosciences-bordeaux.fr
     html: >-
-      <img src='https://www.tesselle.org/images/archeosciences.png' alt='Arch&eacute;osciences Bordeaux' height='32' style="margin-bottom: 3px;" />
+      <img src='https://www.tesselle.org/images/logo-archeosciences.svg' alt='Arch&eacute;osciences Bordeaux' height='32' style="margin-bottom: 3px;" />
   Université Bordeaux Montaigne:
     href: https://www.u-bordeaux-montaigne.fr
     html: >-
-      <img src='https://www.tesselle.org/images/UBM.jpg' alt='Universit&eacute; Bordeaux Montaigne' height='32' style="margin-bottom: 3px;" />
+      <img src='https://www.tesselle.org/images/logo-ubm.svg' alt='Universit&eacute; Bordeaux Montaigne' height='32' style="margin-bottom: 3px;" />
   CNRS:
     href: https://www.cnrs.fr
     html: >-
-      <img src='https://www.tesselle.org/images/CNRS.png' alt='CNRS' height='32' style="margin-bottom: 3px;" />
+      <img src='https://www.tesselle.org/images/logo-cnrs.svg' alt='CNRS' height='32' style="margin-bottom: 3px;" />
 
 template:
   bootstrap: 5
