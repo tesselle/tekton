@@ -22,10 +22,8 @@ template:
     danger: "#A6081A"
     border-radius: 0.5rem
     btn-border-radius: 0.25rem
-    base_font:
-      google: "Roboto"
-    heading_font:
-      google: "Ubuntu"
+    base_font: roboto
+    heading_font: ubuntu
   includes:
     in_header:
       <meta property="og:locale" content="en_US" />

@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "roboto";
+  src: url("https://packages.tesselle.org/fonts/roboto/Roboto-Regular.eot");
+  src:
+    local("Roboto Regular"),
+    local("Roboto-Regular"),
+    url("https://packages.tesselle.org/fonts/roboto/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+    url("https://packages.tesselle.org/fonts/roboto/Roboto-Regular.woff2") format("woff2"),
+    url("https://packages.tesselle.org/fonts/roboto/Roboto-Regular.woff") format("woff"),
+    url("https://packages.tesselle.org/fonts/roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "ubuntu";
+  src: url("https://packages.tesselle.org/fonts/proxima/Ubuntu-Regular.eot");
+  src:
+    local("Ubuntu Regular"),
+    local("Ubuntu-Regular"),
+    url("https://packages.tesselle.org/fonts/ubuntu/Ubuntu-Regular.eot?#iefix") format("embedded-opentype"),
+    url("https://packages.tesselle.org/fonts/ubuntu/Ubuntu-Regular.woff2") format("woff2"),
+    url("https://packages.tesselle.org/fonts/ubuntu/Ubuntu-Regular.woff") format("woff"),
+    url("https://packages.tesselle.org/fonts/ubuntu/Ubuntu-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
