@@ -1,5 +1,5 @@
 Package: tekton
-Title: 'pkgdown' Template for tesselle Packages
+Title: 'pkgdown' Template for 'tesselle' Packages
 Version: 0.0.0.9000
 Authors@R: c(
     person("Nicolas", "Frerebeau", , "nicolas.frerebeau@u-bordeaux-montaigne.fr", role = c("aut", "cre"),
@@ -8,7 +8,7 @@ Authors@R: c(
     person("CNRS", role = "fnd")
   )
 Maintainer: Nicolas Frerebeau <nicolas.frerebeau@u-bordeaux-montaigne.fr>
-Description: This is a private template for use by tesselle packages.
+Description: This is a private template for use by 'tesselle' packages.
     Please don't use it for your own code.
 License: GPL (>= 3)
 URL: https://packages.tesselle.org/tekton/,
@@ -19,4 +19,4 @@ Suggests:
     rmarkdown
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.2
