@@ -1,6 +1,17 @@
 development:
   mode: auto
 
+home:
+  sidebar:
+    structure: [custom, links, license, community, citation, authors, dev]
+    components:
+      custom:
+        title: Project
+        text: |
+          This package is a part of the **tesselle** project, a collection of R
+          packages for research and teaching in archaeology.
+          Learn more at [tesselle.org](https://www.tesselle.org/).
+
 authors:
   Archéosciences Bordeaux:
     href: https://www.archeosciences-bordeaux.fr
